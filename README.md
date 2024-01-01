@@ -15,7 +15,7 @@ The Supermarket sales dataset has been obtained from [Kaggle](https://www.kaggle
 
 - Net Promoter Score (NPS): The calculated NPS value indicates the overall satisfaction level of customers. Positive NPS signifies more promoters than detractors, implying higher satisfaction.
 - Distribution of Promoters, Passives, and Detractors: Analyze the percentages of each category to understand the distribution of customer sentiment.
-- Trend Analysis: Track NPS over time (if the dataset includes timestamps) or across different customer segments (e.g., by branch, product line) to identify patterns or areas for improvement.
+- Trend Analysis: Track NPS over time or across different customer segments (e.g., by branch, product line) to identify patterns or areas for improvement.
 - Comparative Analysis: Compare NPS across different branches, cities, customer types, or product lines to pinpoint areas needing attention or improvement.
 
 ## Result
